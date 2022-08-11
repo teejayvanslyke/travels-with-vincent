@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Vincent outside my childhood elementary
+school](/images/vincent-outside-dryden-elementary.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello! I'm [Teejay VanSlyke](http://teejayvanslyke.com). I started this little
+travelblog in August of 2022 when I was about to embark upon another journey in
+my custom campervan _Vincent Van Go!_. I built out my van near the start of the
+pandemic and traversed the country, finding myself in Saint Petersburg,
+Florida.
 
 
-[jekyll-organization]: https://github.com/jekyll
