@@ -17,7 +17,7 @@ I'd traverse the mountains out west and could feel the temperature change
 after only travelling a hundred miles.
 
 Exhausted from the day's travels, I scoured West Asheville for
-a reasonalble stealthy place to park, but couldn't find anywhere that
+a reasonably stealthy place to park, but couldn't find anywhere that
 wasn't either directly in front of a residence or on a busy commercial
 street. So I searched for the nearest Cracker Barrel and made their
 parking lot my home for the night.
