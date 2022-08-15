@@ -7,6 +7,10 @@ body {
   font-weight: bold;
   color: white;
 }
+.site-title:hover {
+  color: white;
+  text-decoration: none;
+}
 
 .site-header .page-link {
   text-transform: uppercase;
