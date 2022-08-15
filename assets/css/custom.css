@@ -1,0 +1,44 @@
+body {
+  font-family: "Courier New", fixed;
+}
+
+.site-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+}
+
+.site-header .page-link {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+}
+
+.site-header {
+  background-color: black;
+  color: white;
+}
+
+.site-footer {
+  background-color: black;
+  color: white;
+}
+
+a {
+}
+
+.p-title,
+.post-link {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+.footer-heading {
+  display: none;
+}
+
+.post-list-heading {
+  display: none;
+}
