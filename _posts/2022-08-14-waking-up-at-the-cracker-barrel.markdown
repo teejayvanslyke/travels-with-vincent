@@ -4,6 +4,8 @@ title:  "Waking up at the Cracker Barrel"
 date:   2022-08-14 07:07:52 -0400
 ---
 
+![Woke up like this](/images/2022-08-14-cracker-barrel.jpg)
+
 Yesterday I barreled (haha, get it?) through the swamps of Florida and
 Georgia and into the forests of South Carolina. Last year, I stopped
 somewhere south of the North-South Carolina border for a night's sleep at

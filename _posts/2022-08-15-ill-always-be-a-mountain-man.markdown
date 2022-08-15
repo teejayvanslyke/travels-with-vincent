@@ -4,6 +4,9 @@ title:  "I'll always be a mountain man"
 date:   2022-08-15 10:00:00 -0400
 ---
 
+![Working out at a viewpoint near
+Asheville](/images/working-out-at-viewpoint.jpg)
+
 The past few days have illuminated a truth that I think I've known since
 I moved to Florida, but that I tried very hard to escape: I'll always be
 a mountain man at heart.
