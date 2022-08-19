@@ -73,3 +73,8 @@ When considering how to mitigate climate change, how to provide equitable
 transportation options, and how to build more integrated communities,
 let's look toward the past to get to the future.
 
+Also, isn't this just so much more beautiful than the bland suburban
+housing that gets built today?
+
+![Beautiful Lawrenceville row
+house](/images/lawrenceville-row-house-pretty.jpg)
