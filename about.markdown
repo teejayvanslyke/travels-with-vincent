@@ -28,6 +28,10 @@ You'll find my email address in the footer of this page if you'd like to
 reach out! I love sending and receiving email—it's a slower, more
 methodical form of communication.
 
+And if you're at all interested in the philosophy of owning and publishing
+your own content on the web, check out the
+[IndieWeb](https://indieweb.org/).
+
 #### Why are all your photos so ... grainy?
 
 Awhile back, I got rid of my smartphone in favor of a Nokia brick phone.
