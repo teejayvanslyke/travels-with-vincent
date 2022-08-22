@@ -13,6 +13,12 @@ my custom campervan _Vincent Van Go!_. I built out my van near the start of the
 pandemic and traversed the country, finding myself in Saint Petersburg,
 Florida.
 
+Now I'm on the road again, this time heading northward from Florida to
+Quebec and adventuring along the way. I'm a big proponent of _slow
+travel_, spending weeks or months in the same place and immersing myself
+in the culture as a local, rather than hurrying about trying to see the
+tourist sites as fast as I can.
+
 ### Frequently asked questions
 
 #### What's your Instagram?
@@ -41,4 +47,4 @@ a smartphone more invites mystery, excitement, and attention.
 As a result, I no longer had a camera. To remedy this without spending
 a fortune, I scoured Craigslist for a cheap used pocket-sized camera. And
 so, all the photos on this blog (so far) are taken on a Nikon Coolpix
-camera, probably from the early 2000s.
+camera, probably from the early 2000s, that I bought in Florida for $20.
