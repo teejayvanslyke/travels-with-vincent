@@ -58,15 +58,16 @@ Florida. It's the [deadliest such road in
 America](https://www.strongtowns.org/journal/2022/8/16/the-deadliest-stroad-in-america)
 for pedestrians.)
 
-Now, before you say "You should go to <insert impoverished country here>
+Now, before you say "You should go to \<insert impoverished country here\>
 and see how good you have it"—that's not an argument for not demanding
-progress and change here. Yes, America _is_ a land of plenty. The economic
-engine here is unparalleled to anything that's ever come before it. And we
-should continue that spirit of innovation and abundance. But just like the
-smog-filled cityscapes of the early 20th century gave way to clean air and
-water initiatives that have vastly improved the lives of city dwellers
-across America, so too should livable street initiatives clear the streets
-of private automobiles and herald a new era of livable cities.
+progress and change here. Yes, America is a land of plenty, materially.
+The economic engine here is unparalleled to anything that's ever come
+before it. And we should continue that spirit of innovation and abundance.
+But just like the smog-filled cityscapes of the early 20th century gave
+way to clean air and water initiatives that have vastly improved the lives
+of city dwellers across America, so too should livable street initiatives
+clear the streets of private automobiles and herald a new era of livable
+cities.
 
 Anyway.
 
