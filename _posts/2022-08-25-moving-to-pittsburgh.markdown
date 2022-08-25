@@ -52,7 +52,11 @@ But no, we continue to build places that look like this:
 ![US-19](/images/us-19.jpg)
 
 Who in the world wants to be in this place? This place isn't inspiring. It
-isn't functional. It isn't sustainable. It's a travesty.
+isn't functional. It isn't sustainable. It's a travesty. (PS: That's
+US-19, a giant stroad that cuts through Pinellas and Pasco Counties in
+Florida. It's the [deadliest such road in
+America](https://www.strongtowns.org/journal/2022/8/16/the-deadliest-stroad-in-america)
+for pedestrians.)
 
 Now, before you say "You should go to <insert impoverished country here>
 and see how good you have it"—that's not an argument for not demanding
