@@ -68,6 +68,8 @@ water initiatives that have vastly improved the lives of city dwellers
 across America, so too should livable street initiatives clear the streets
 of private automobiles and herald a new era of livable cities.
 
+Anyway.
+
 Pittsburgh is especially interesting to me as a place to buy property for
 a few reasons. 
 
