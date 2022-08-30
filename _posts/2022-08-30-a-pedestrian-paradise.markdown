@@ -44,7 +44,6 @@ efficient and economical.
 
 ![Residential street](/images/montreal-residential-street.jpg)
 
-Today I'm sitting at a local cafe doing some writing and learning French.
 I've had a few incredible multilingual experiences here so far. Yesterday,
 I came across a Latin supermarket, where I bought some pastries,
 a baguette, and some chorizo to prepare at home. The clerk didn't speak
