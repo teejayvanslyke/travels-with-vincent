@@ -42,7 +42,7 @@ Some of the best art, music, and film was and is produced in America. If
 you're an immigrant from a less affluent country, moving to America can be
 an opportunity out of poverty. But compared to the rest of the developed
 world, we've messed up, severely. We've prioritized the illusion of
-individual self-determination—an tenuous illusion based on false
+individual self-determination—a tenuous illusion based on false
 premises—over the development of the commonwealth. That has left us with
 crumbling, inadequate infrastructure, housing that's built for the rich
 few, ever-increasing healthcare costs, and a society of self-help gurus
