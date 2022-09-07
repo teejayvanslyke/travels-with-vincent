@@ -2,6 +2,7 @@
 layout: post
 title:  "Contemplating the good life"
 date:   2022-09-04
+published: false
 ---
 
 Now that I'm settled for the month in Montréal, I have a bit more time on
