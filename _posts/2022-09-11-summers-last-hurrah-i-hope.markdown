@@ -22,7 +22,7 @@ But this week, all of that changed as Montréal is experiencing another
 heat wave. Yesterday, temperatures reached 85 degrees Fahrenheit. Today,
 they're hovering around 83. 
 
-And I've noticed in the past couple days that I'm more irratible than I'd
+And I've noticed in the past couple days that I'm more irritable than I'd
 been in the weeks prior. I wake up in a great mood, but as soon as I walk
 outside and I'm blinded by the late summer sun, all I want to do is go
 back inside, close the blinds, and take a nap.
